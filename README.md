@@ -1,7 +1,3 @@
-Certainly! Here's the README.md version of the description:
-
----
-
 # Flask API for Interpolating Point Data with Temperature Values
 
 This repository contains a Flask API for interpolating point data with temperature values using Python libraries such as NumPy, SciPy, and Shapely. The API provides endpoints to receive input point data along with temperature values and returns interpolated temperature values for specified locations.
