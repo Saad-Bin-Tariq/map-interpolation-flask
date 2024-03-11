@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+scipy
+shapely
+matplotlib
+requests
+json
+io
+base64
